@@ -1,0 +1,5 @@
+rootProject.name = 'Test'
+
+include 'test-api'
+include 'test-impl'
+
